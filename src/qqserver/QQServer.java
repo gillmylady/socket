@@ -195,7 +195,7 @@ public class QQServer {
                         s3 = info[3];
                     printDebug("read one input: " + input);
                     printDebug("wf");
-                    //
+                    //https://github.com/gillmylady/socket_server.git
                     if(s0.equals("CHAT") == false){
                         continue;
                     }
