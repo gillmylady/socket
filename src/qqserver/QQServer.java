@@ -194,7 +194,7 @@ public class QQServer {
                     if(info.length > 3)
                         s3 = info[3];
                     printDebug("read one input: " + input);
-                    
+                    //
                     if(s0.equals("CHAT") == false){
                         continue;
                     }
